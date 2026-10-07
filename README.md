@@ -227,6 +227,7 @@ Urgent messages promising free VIP access, fake airdrop claims with wallet addre
 | **Telemetr** | Channel analytics and monitoring | [telemetr.io](https://telemetr.io) |
 
 ---
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 single-purpose Telegram bots: anonymous inbox, party games, expense splitter, habit tracker, reminders, focus timer, and more.
 
 ## Comprehensive Comparison
 
